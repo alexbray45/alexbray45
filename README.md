@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image-url" alt="Alexander Allotey-Bray - Software Developer" width="100%" />
-</p>
+</p> -->
 
 # 👋 Hi there, I'm Alexander Allotey-Bray! 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 🛠 **Tech Stack & Tools**  
 ### **Languages & Frameworks** 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50"/>
 
 
 <!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) --> 
 
 ### **Mobile Development**  
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50"/>
 
 <!-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  -->
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) --> 
 
 ### **DevOps & Tools**  
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
 
 <!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
