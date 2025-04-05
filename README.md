@@ -77,8 +77,16 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexbray45&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
 </p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbray45&layout=compact&theme=dark)
+<section>
+  
+  <div align="center">
 
+   
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexbray45&hide=contribs,prs&show_icons=true&theme=radical"/>
+ <br><br>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact"/>
+ </div>
+</section>
 ---
 
 ## 🌍 **Connect with Me**  
