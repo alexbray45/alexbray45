@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Alexander Allotey-Bray! 
 
-💻 **Aspiring Full-Stack Developer | Junior IT Specialist**  
+💻 **Aspiring Full-Stack Developer | Junior IT/Systems Analyst**  
 🚀 **Passionate about Software Development, Systems Analysis, and IT Solutions**  
 🎓 **BSc (Hons) in Applied Business Computing**   
 📍 **Based in Botswana**  
