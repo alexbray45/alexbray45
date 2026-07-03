@@ -11,7 +11,7 @@ build software systems that bridge technology and business needs. By combining s
 
 Whether developing enterprise applications or modern web solutions, I enjoy turning complex requirements into intuitive software that delivers lasting value and grows alongside evolving technologies.
 
-🌍 Based in Gaborone, Botswana.
+🌍 Based in Gaborone, Botswana.        
 🎓 BSc (Hons) Applied Business Computing
 
 ---
@@ -41,7 +41,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 ## 🛠 Languages & Tools
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="45"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="45"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45"/>
@@ -53,17 +53,17 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" widxth="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="45"/> -->
 </p>
 
 **Programming Languages:** JavaScript (ES6+), PHP, C#, SQL, HTML5, CSS3
@@ -95,7 +95,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 </section>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact" />
+  <img width="39%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact" />
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
 </p>
