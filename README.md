@@ -98,9 +98,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <div align="left">
  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact"/>
  </div>
-  
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
-
+    <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
 </section>
 
 
