@@ -5,7 +5,7 @@
 
 # 👋 Hi there
 
-# Software Engineer | Systems Analyst | Enterprise Solutions
+## Software Engineer | Systems Analyst | Enterprise Solutions
 
 ### 👨🏼‍💻 About Me:
 I am Alexander Bray, a Software Engineer focused on building systems that bridge technology and business needs. By combining software engineering, systems analysis, and business understanding, I design practical, scalable, and user-focused solutions that improve operational efficiency, support digital transformation, and solve real-world challenges.
