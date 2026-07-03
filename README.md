@@ -47,14 +47,14 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" width="45"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" width="45"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -65,9 +65,9 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="45"/> -->
 </p>
 
-**Programming Languages:** JavaScript (ES6+), PHP, C#, SQL, HTML5, CSS3
+**Programming Languages:** JavaScript (ES6+), TypeScript, PHP, C#, SQL
 
-**Frontend:** React, Next.js, Vite, Bootstrap, Tailwind CSS, Sass (SCSS), Framer Motion
+**Frontend:** React, Next.js, Vite, Tailwind CSS, Sass (SCSS), Framer Motion
 
 **Backend:** Node.js, Express.js, ASP.NET Core, REST APIs
 
@@ -75,8 +75,9 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 
 **Systems & Infrastructure:** Virtualization, Windows Server, Networking, Information Security
 
-**DevOps & Tools:** Git, GitHub, Linux, VS Code, Figma
+**DevOps & Tools:** Git, GitHub, Linux, Figma
 
+<!--
 ---
 
 ## 📊 GitHub Statistics
@@ -86,7 +87,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
 </p>
  -->
-
+<!--
 <section>  
   <div align="center">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexbray45&hide=contribs,prs&show_icons=true&theme=radical"/> 
@@ -98,7 +99,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
 </p>
-
+-->
 
 ---
 ## 🌍 **Connect with Me**  
