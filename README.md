@@ -3,11 +3,11 @@
 <!-- Banner (Optional) -->
 <!-- Add a banner later once your personal branding is complete -->
 
-# 👋 Hi there, I'm Alexander Bray
+# 👋 Hi there,
 
-### Software Engineer | Systems Analyst | Backend Systems & Intelligent Platforms
+### Software Engineer | Systems Analyst | Enterprise Solutions
 
-build software systems that bridge technology and business needs. By combining software engineering, systems analysis, and business understanding, I design practical, scalable, and user-focused solutions that improve operational efficiency, support digital transformation, and solve real-world challenges.
+I am Alexander Bray, a Software Engineer focused on building systems that bridge technology and business needs. By combining software engineering, systems analysis, and business understanding, I design practical, scalable, and user-focused solutions that improve operational efficiency, support digital transformation, and solve real-world challenges.
 
 Whether developing enterprise applications or modern web solutions, I enjoy turning complex requirements into intuitive software that delivers lasting value and grows alongside evolving technologies.
 
