@@ -11,7 +11,7 @@ build software systems that bridge technology and business needs. By combining s
 
 Whether developing enterprise applications or modern web solutions, I enjoy turning complex requirements into intuitive software that delivers lasting value and grows alongside evolving technologies.
 
-🌍 Based in Gaborone, Botswana  
+🌍 Based in Gaborone, Botswana.
 🎓 BSc (Hons) Applied Business Computing
 
 ---
@@ -94,21 +94,11 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
  </div>
 </section>
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark"/>
-
-</td>
-</tr>
-</table>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
+</p>
 
 
 ---
