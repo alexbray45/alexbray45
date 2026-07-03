@@ -5,7 +5,7 @@
 
 # 👋 Hi there
 
-## Software Engineer | Systems Analyst | Enterprise Solutions
+# Software Engineer | Systems Analyst | Enterprise Solutions
 
 ### 👨🏼‍💻 About Me:
 I am Alexander Bray, a Software Engineer focused on building systems that bridge technology and business needs. By combining software engineering, systems analysis, and business understanding, I design practical, scalable, and user-focused solutions that improve operational efficiency, support digital transformation, and solve real-world challenges.
@@ -66,13 +66,13 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="45"/> -->
 </p>
 
-**Programming Languages:** JavaScript (ES6+), TypeScript, PHP, C#, SQL
+**Programming Languages:** JavaScript (ES6+), TypeScript, PHP, C#
 
 **Frontend:** React, Next.js, Vite, Tailwind CSS, Sass (SCSS), Framer Motion
 
 **Backend:** Node.js, Express.js, ASP.NET Core, REST APIs
 
-**Databases:** MySQL, MongoDB, PostgreSQL.
+**Databases:** MongoDB, SQL (MySQL, PostgreSQL, SQL Server)
 
 **Systems & Infrastructure:** Virtualization, Windows Server, Networking, Information Security
 
