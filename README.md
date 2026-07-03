@@ -3,7 +3,7 @@
 <!-- Banner (Optional) -->
 <!-- Add a banner later once your personal branding is complete -->
 
-### 👋 Hi there
+#👋 Hi there
 
 ## Software Engineer | Systems Analyst | Enterprise Solutions
 
