@@ -5,15 +5,14 @@
 
 # 👋 Hi there, I'm Alexander Bray
 
-### Software Engineer | Systems Analyst
+### Software Engineer | Systems Analyst | Backend Systems & Intelligent Platforms
 
 build software systems that bridge technology and business needs. By combining software engineering, systems analysis, and business understanding, I design practical, scalable, and user-focused solutions that improve operational efficiency, support digital transformation, and solve real-world challenges.
 
 Whether developing enterprise applications or modern web solutions, I enjoy turning complex requirements into intuitive software that delivers lasting value and grows alongside evolving technologies.
 
 🌍 Based in Gaborone, Botswana  
-🎓 BSc (Hons) Applied Business Computing 
-📫 Reach me: alex.bray77@gmail.com
+🎓 BSc (Hons) Applied Business Computing
 
 ---
 
@@ -42,19 +41,29 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 ## 🛠 Languages & Tools
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="45"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="45"/>
+  <img src="http://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
+  <img src="http://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
 </p>
 
 **Programming Languages:** JavaScript (ES6+), PHP, C#, SQL, HTML5, CSS3
@@ -72,19 +81,27 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 ---
 
 ## 📊 GitHub Statistics
-
+<!--
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexbray45&show_icons=true&theme=dark" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexbray45&show_icons=true&theme=dark" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
 </p>
+ -->
 
-<section>
-  
+<section>  
   <div align="center">
-   
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexbray45&hide=contribs,prs&show_icons=true&theme=radical"/> 
- <br><br>
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact"/>
+ </div>
+</section>
+
+<section>  
+  <div align="left">
+ <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact"/>
+ </div>
+</section>
+<section>  
+  <div align="right">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
  </div>
 </section>
 
@@ -99,7 +116,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 ---
 
 > *"Building software systems that simplify operations, improve decision-making, and create real-world impact."*
----
+
 <!--
 ## 🌍 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-allotey-bray) 
@@ -107,7 +124,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](https://yourwebsite.com)   -->
 
----
+
 <!--
 ## 💡 **Fun Fact**  
 _"The best way to predict the future is to create it." - Peter Drucker_  
