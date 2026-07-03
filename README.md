@@ -52,10 +52,10 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="45"/>
-  <img src="http://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
-  <img src="http://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/>
@@ -96,14 +96,13 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 
 <section>  
   <div align="left">
- <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact"/>
+ <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexbray45&theme=dark&layout=compact"/>
  </div>
-</section>
-<section>  
   <div align="right">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbray45&theme=dark" />
  </div>
 </section>
+
 
 ---
 ## 🌍 **Connect with Me**  
