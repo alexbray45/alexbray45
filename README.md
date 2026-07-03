@@ -58,7 +58,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" widxth="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
