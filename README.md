@@ -50,11 +50,10 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
