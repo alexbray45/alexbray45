@@ -68,7 +68,7 @@ Whether developing enterprise applications or modern web solutions, I enjoy turn
 
 **Programming Languages:** JavaScript (ES6+), TypeScript, PHP, C#
 
-**Frontend:** React, Next.js, Vite, Tailwind CSS, Sass (SCSS), Framer Motion
+**Frontend:** React, Next.js, Vite, Redux, Tailwind CSS, Sass (SCSS), Framer Motion
 
 **Backend:** Node.js, Express.js, ASP.NET Core, REST APIs
 
